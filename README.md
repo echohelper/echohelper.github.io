@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+<center>
 
-You can use the [editor on GitHub](https://github.com/echohelper/echohelper.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+  <p>The boy is so lazy, so that just that.</p>
+  
+</center>
