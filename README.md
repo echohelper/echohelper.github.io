@@ -1,5 +1,1 @@
-<center>
-
-  <p>The boy is so lazy, so that just that.</p>
-  
-</center>
+![Garden](https://pic.netbian.com/tupian/25331.html "Magic Garden")
